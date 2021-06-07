@@ -4,13 +4,17 @@ I'm in the 2nd year of engineering studies in the field of logistics.</br> I liv
 
 I spend my free time on a bicycle :bike: I'm also a fun of hydroponics.
 
-I'm currently learning Typescript, React
+**I'm currently learning:** 
+ - Typescript 
+ - React
+ - Redux
 
-**Languages and Tools:**  
+
+**Languages and Tools:**       
 - Typescript 
 - React
 - Redux
-- JavaScript 
+- JavaScript                  
 - HTML
 - CSS
 - PHP

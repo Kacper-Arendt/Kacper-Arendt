@@ -1,5 +1,7 @@
-Hi there :wave: I'm Kacper Arendt, a self-taught frontend web developer. 
-I'm in the 2nd year of engineering studies in the field of logistics. I live in Warsaw :poland: and I'm 25.
+Hi there :wave: I'm Kacper Arendt, a self-taught frontend web developer. </br>
+
+I'm in the 2nd year of engineering studies in the field of logistics.</br> I live in Warsaw :poland: and I'm 25 years old.
+
 I spend my free time on a bicycle :bike: I'm also a fun of hydroponics.
 
 I'm currently learning Typescript, React
